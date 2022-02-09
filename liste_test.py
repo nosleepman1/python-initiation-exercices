@@ -1,2 +1,2 @@
 fruits = ['mangue', 'orange', 'banane']
-print(fruits[3]) # IndexError??
+print('premier:', fruits[0], 'dernier:', fruits[2])
